@@ -1,6 +1,6 @@
 # Github Roaster CLI
 
-Welcome to the **Github Roaster**! This program will generate a roast of any GitHub user you choose.  It uses the GitHub API to fetch user data and [Pollinations.ai](https://pollinations.ai/) OpenAI model to generate the roast.
+Welcome to the **Github Roaster**! This simple script will generate a roast of any GitHub user you choose.  It uses the GitHub API to fetch user data and [Pollinations.ai](https://pollinations.ai/) OpenAI model to generate the roast.
 
 ---
 
